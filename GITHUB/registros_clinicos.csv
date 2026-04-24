@@ -1,0 +1,7 @@
+﻿ID_Paciente,Fecha_Ingreso,Patologia,Frecuencia_Cardiaca,Costo_Insumos
+101,2026/04/10,Neumonía Lobular,98 bpm,$2.500
+102,12-04-2026,Bronconeumonía,105,$1.800
+103,2026.04.15,Taponamiento Cardíaco,110 lpm,n/a
+104,error,Neumonía Lobular,n/a,$3.200
+105,18/04/2026,Aneurisma Aórtico,88 bpm,$4.100
+106,20/04/2026,Neumonía Atípica,115 lpm,$1.950
